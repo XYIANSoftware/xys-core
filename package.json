@@ -1,18 +1,18 @@
 {
-  "name": "yds-core",
-  "displayName": "YDS CORE",
-  "publisher": "YAMAHA",
-  "description": "Core YDS functionality, settings, keybindings and commands.  - intended to be used in tandem with Yamaha Extension Pack (and yds-snippets) ",
-  "version": "0.0.4",
+  "name": "core-settings-xys",
+  "displayName": "Visual Studio Settings from XYIAN Software",
+  "publisher": "XYIAN",
+  "description": "Core XYS functionality, settings, keybindings and commands.  - intended to be used in tandem with XYIAN Extension Pack (and xyian-snippets) ",
+  "version": "0.0.0",
   "engines": {
     "vscode": "^1.85.0"
   },
   "repository": {
-    "url": "https://github.com/XYIAN/yds-core.git"
+    "url": "https://github.com/XYIANSoftware/xys-core.git"
   },
   "icon": "img/yamaha_blue.ico",
   "galleryBanner": {
-    "color": "#050180",
+    "color": "#08090a",
     "theme": "dark"
   },
   "categories": [
